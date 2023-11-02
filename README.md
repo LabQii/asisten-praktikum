@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LabQii/LabQii/master/hasilrun5.jpg" alt="hasilrun" />
-  <h3>Database - Praktikum Pemvis - Modul 5</h3>
-  <p>Silahkan diambil sisi baiknya, apabila ada kurangnya silahkan ditambahi dan dimodifikasi lagi</a></p>
+  <h3>Praktikum Pemvis - Modul 5 - Database</h3>
+  <p>Silahkan diambil sisi baiknya, apabila ada kurangnya silahkan ditambahi dan dimodifikasi lagi! goodluck all</a></p>
+  <img src="https://github.com/LabQii/asisten-praktikum/blob/main/hasilrun5.JPG" alt="hasilrun" />
 </div>
